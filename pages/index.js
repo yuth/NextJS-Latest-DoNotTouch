@@ -35,6 +35,7 @@ export default function Home({}) {
         <Link href={`/middleware-set-header`}>Middleware — Set Header</Link><br />
         <Link href={`/image-optimization-imported`}>Image Optimization — Imported image</Link><br />
         <Link href={`/image-optimization-remote`}>Image Optimization — Remote image</Link><br />
+        <Link href={`/large-image`}>Large Image</Link><br />
         <Link href={`/image-html-tag`}>Image using html image tag from public folder</Link><br />
         <Link href={`/font-css-font`}>Font — CSS Font</Link><br />
         <Link href={`/font-next-font`}>Font — @next/font</Link><br />
